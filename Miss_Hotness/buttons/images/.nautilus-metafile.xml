@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<directory>
+  <file name="browser_c.png" icon_position="523,34"/>
+  <file name="gimp.png" icon_position="535,303"/>
+  <file name="dvd.png" icon_position="335,177"/>
+  <file name="mp3.png" icon_position="269,429"/>
+  <file name="movie.png" icon_position="82,429"/>
+  <file name="folder.png" icon_position="180,286"/>
+  <file name="control.png" icon_position="84,160"/>
+  <file name="email.png" icon_position="499,160"/>
+  <file name="edit.png" icon_position="330,160"/>
+  <file name="browser.png" icon_position="335,34"/>
+  <file name="control_c.png" icon_position="523,34"/>
+  <file name="dvd_c.png" icon_position="82,160"/>
+  <file name="edit_c.png" icon_position="250,160"/>
+  <file name="email_c.png" icon_position="423,160"/>
+  <file name="folder_c.png" icon_position="607,160"/>
+  <file name="gimp_c.png" icon_position="186,269"/>
+  <file name="movie_c.png" icon_position="468,269"/>
+  <file name="mp3_c.png" icon_position="84,395"/>
+</directory>

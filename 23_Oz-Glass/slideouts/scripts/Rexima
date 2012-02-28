@@ -1,0 +1,9 @@
+Eterm --theme 23Oz_G -P "none" --buttonbar 0 --scrollbar 0 --no-cursor \
+--font-fx "none" \
+--foreground-color "#3c3c3c" \
+--background-color "#b1b1b1" \
+--cursor-color "#bbbbbb" \
+--cursor-text-color "#3c3c3c" \
+--pointer-color "#d8d8d8" \
+--font "-*-edges-medium-r-normal-*-*-100-*-*-m-*-*-*" \
+ -n ". : R E X I M A : ." --exec rexima

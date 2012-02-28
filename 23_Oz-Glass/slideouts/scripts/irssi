@@ -1,0 +1,2 @@
+Eterm --theme 23Oz_G --scrollbar 0 --buttonbar 0 \
+-n ". : I R S S I : ." --exec irssi

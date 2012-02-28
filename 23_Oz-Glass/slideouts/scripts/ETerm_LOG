@@ -1,0 +1,27 @@
+Eterm -O -P "none" --buttonbar 0 --scrollbar 0 --no-cursor --geometry 80x16 \
+--font-fx "none" \
+--foreground-color "#3c3c3c" \
+--background-color "#b1b1b1" \
+--cursor-color "#bbbbbb" \
+--cursor-text-color "#3c3c3c" \
+--pointer-color "#d8d8d8" \
+--color0 "#000000" \
+--color1 "#aa0000" \
+--color2 "#00aa00" \
+--color3 "#aa5500" \
+--color4 "#0000aa" \
+--color5 "#aa00aa" \
+--color6 "#00aaaa" \
+--color7 "#aaaaaa" \
+--color8 "#555555" \
+--color9 "#ff5555" \
+--color10 "#55ff55" \
+--color11 "#ffff55" \
+--color12 "#5555ff" \
+--color13 "#ff55ff" \
+--color14 "#55ffff" \
+--color15 "#ffffff" \
+--colorbd "#ffffff" \
+--colorul "#ffffff" \
+--font "-*-edges-medium-r-normal-*-*-100-*-*-m-*-*-*" \
+ -n ">:/ E :: L O G ::"

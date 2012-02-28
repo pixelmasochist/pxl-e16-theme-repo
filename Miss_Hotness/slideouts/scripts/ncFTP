@@ -1,0 +1,2 @@
+Eterm --theme 23Oz_G --scrollbar 0 --buttonbar 0 \
+-n ". : N C F T P : ." --exec ncftp

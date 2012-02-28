@@ -1,0 +1,27 @@
+Eterm -O --cmod 130 --scrollbar 0 --buttonbar 0 --home-on-input \
+--foreground-color "#b8b8b8" \
+--background-color "#000000" \
+--cursor-color "#b8b8b8" \
+--cursor-text-color "#3c3c3c" \
+--pointer-color "#c5d4dc" \
+--color0 "#000000" \
+--color1 "#b80000" \
+--color2 "#00b800" \
+--color3 "#b86800" \
+--color4 "#0000b8" \
+--color5 "#b800b8" \
+--color6 "#00b8b8" \
+--color7 "#b8b8b8" \
+--color8 "#686868" \
+--color9 "#ff6868" \
+--color10 "#68ff68" \
+--color11 "#ffff68" \
+--color12 "#6868ff" \
+--color13 "#ff68ff" \
+--color14 "#68ffff" \
+--color15 "#ffffff" \
+--colorbd "#ffffff" \
+--colorul "#ffffff" \
+--font "-*-smoothansi-medium-r-normal-*-*-130-*-*-m-*-*-*" \
+--meta-mod 1 --alt-mod 4 \
+-n "Vim" --exec vim
